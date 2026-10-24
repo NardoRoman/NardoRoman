@@ -102,7 +102,6 @@
       <p>A pet adoption project with image-analysis functionality intended to help identify visual characteristics such as species and breed.</p>
       <p><em>Proyecto de adopción de mascotas con análisis de imágenes para apoyar la identificación de características como especie y raza.</em></p>
       <p><a href="https://huellitascorazon.netlify.app/">↗ Live demo</a></p>
-      <sub>Source code is not linked because the repository is not intended to be public.</sub>
     </td>
   </tr>
   <tr>
