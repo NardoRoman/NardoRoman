@@ -139,14 +139,32 @@
 ## `04` GitHub Activity
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=NardoRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="NardoRoman GitHub stats" width="48%" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NardoRoman&theme=tokyonight&hide_border=true&background=0D1117" alt="NardoRoman GitHub Streak" width="48%" />
-</div>
 
-<br>
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=NardoRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="NardoRoman GitHub Stats"
+    width="48%"
+  />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NardoRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
+  <!-- GitHub Streak -->
+  <a href="https://github-streak-bijay-shre-stha.vercel.app/NardoRoman">
+    <img
+      src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=NardoRoman&theme=default"
+      alt="NardoRoman GitHub Streak"
+      width="48%"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=NardoRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="NardoRoman Top Languages"
+    width="50%"
+  />
+
 </div>
 
 ---
