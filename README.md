@@ -140,12 +140,12 @@
 
 <div align="center">
 
-  <!-- GitHub Stats 
+  <!-- GitHub Stats -->
   <img
     src="https://github-stats-extended.vercel.app/api?username=NardoRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
     alt="NardoRoman GitHub Stats"
     width="48%"
-  />-->
+  />
 
   <!-- GitHub Streak -->
   <a href="https://github-streak-bijay-shre-stha.vercel.app/NardoRoman">
