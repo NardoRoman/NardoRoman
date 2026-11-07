@@ -140,30 +140,32 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
+  <!-- Fila 1: Stats Generales y Lenguajes -->
   <img
     src="https://github-stats-extended.vercel.app/api?username=NardoRoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
     alt="NardoRoman GitHub Stats"
     width="48%"
   />
-
-  <!-- GitHub Streak -->
-  <a href="https://github-streak-bijay-shre-stha.vercel.app/NardoRoman">
-    <img
-      src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=NardoRoman&theme=default"
-      alt="NardoRoman GitHub Streak"
-      width="48%"
-    />
-  </a>
-
-  <br><br>
-
-  <!-- Top Languages -->
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=NardoRoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
     alt="NardoRoman Top Languages"
-    width="50%"
+    width="48%"
   />
+
+  <br><br>
+
+  <!-- Fila 2: Racha (Streak) centrada con formato unificado -->
+  <a href="https://github.com/NardoRoman">
+    <img
+      src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=NardoRoman&theme=tokyonight&hide_border=true&background=0D1117"
+      alt="NardoRoman GitHub Streak"
+      width="70%"
+    />
+  </a>
+  
+  <br><br>
+  
+  <sub><em>*Nota: Parte de mi actividad en repositorios de proyectos empresariales y pipelines CI/CD está alojada en <b>GitLab</b>.</em></sub>
 
 </div>
 
